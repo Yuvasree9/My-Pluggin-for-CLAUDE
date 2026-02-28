@@ -1,0 +1,12 @@
+{
+  "name": "ai-architect-plugin",
+  "version": "0.1.0",
+  "description": "Idea -> Design -> Spec -> Implementation -> Deployment",
+  "commands": [
+    {
+      "name": "design-system",
+      "description": "Generate production-grade system design",
+      "entry": "commands/design-system.md"
+    }
+  ]
+}
