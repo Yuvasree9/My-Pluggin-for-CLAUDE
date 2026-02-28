@@ -1,0 +1,27 @@
+{
+  "name": "rakesh-plugins",
+  "owner": {
+    "name": "Rakesh",
+    "email": "hsekarcalethi@gmail.com"
+  },
+  "metadata": {
+    "description": "Rakesh's custom Claude plugins for system design and architecture"
+  },
+  "plugins": [
+    {
+      "name": "ai-architect-plugin",
+      "source": {
+        "source": "github",
+        "repo": "Yuvasree9/Pluggin-for-CLAUDE"
+      },
+      "description": "Idea -> Design -> Spec -> Implementation -> Deployment. Generates production-grade system design documents.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Rakesh",
+        "email": "hsekarcalethi@gmail.com"
+      },
+      "license": "MIT",
+      "keywords": ["architecture", "system-design", "engineering"]
+    }
+  ]
+}

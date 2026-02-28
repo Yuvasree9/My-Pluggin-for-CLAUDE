@@ -1,12 +1,13 @@
 {
   "name": "ai-architect-plugin",
   "version": "0.1.0",
-  "description": "Idea -> Design -> Spec -> Implementation -> Deployment",
-  "commands": [
-    {
-      "name": "design-system",
-      "description": "Generate production-grade system design",
-      "entry": "commands/design-system.md"
-    }
-  ]
+  "description": "Idea -> Design -> Spec -> Implementation -> Deployment. Generates production-grade system design documents.",
+  "author": {
+    "name": "Rakesh",
+    "email": "hsekarcalethi@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["architecture", "system-design", "engineering", "design"],
+  "commands": "./commands/",
+  "skills": ["./skills/architecture-patterns"]
 }
