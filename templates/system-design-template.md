@@ -27,6 +27,13 @@
 - **Target Metrics**: [Target Throughput/Latency]
 - **Approach**: [Scaling Mechanism]
 
+# NFR Quantification
+
+- **Latency**: [Target Latency]
+- **Availability / Uptime**: [Target Uptime]
+- **Throughput**: [Target RPS]
+- **Data Freshness / Staleness**: [Target Freshness]
+
 # Failure Modes
 
 - **Failure Scenario**: [Description]

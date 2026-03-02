@@ -1,0 +1,14 @@
+workflows:
+  design-system:
+    description: "Idea -> Design -> Spec -> Implementation -> Deployment. Generates production-grade system design documents."
+    sequence:
+      - researcher
+      - architect
+      - system-designer
+      - devops
+      - documenter
+      - evaluator
+    enforcement:
+      - nfr-checklist
+      - security-privacy-checklist
+      - cost-modeling-checklist
