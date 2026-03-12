@@ -1,8 +1,7 @@
 {
   "name": "yuvasree-plugins",
   "owner": {
-    "name": "Yuvasree",
-    "email": "yuvasree.thupalli@nvipani.com"
+    "name": "Yuvasree"
   },
   "metadata": {
     "description": "Yuvasree's custom Claude plugins for system design and architecture"
@@ -17,8 +16,7 @@
       "description": "Idea -> Design -> Spec -> Implementation -> Deployment. Generates production-grade system design documents.",
       "version": "0.1.0",
       "author": {
-        "name": "Yuvasree",
-        "email": "yuvasree.thupalli@nvipani.com"
+        "name": "Yuvasree"
       },
       "license": "MIT",
       "keywords": ["architecture", "system-design", "engineering"]

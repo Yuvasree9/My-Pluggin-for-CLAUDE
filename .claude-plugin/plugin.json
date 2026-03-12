@@ -3,8 +3,7 @@
   "version": "0.2.0",
   "description": "Full engineering lifecycle plugin for AI Architects: Design, Implement, Test, Review, and Fix production-grade systems.",
   "author": {
-    "name": "Yuvasree",
-    "email": "yuvasree.thupalli@nvipani.com"
+    "name": "Yuvasree"
   },
   "license": "MIT",
   "keywords": ["architecture", "system-design", "engineering", "implementation", "testing", "code-review", "rag", "ai-orchestration", "shopconnect"],
